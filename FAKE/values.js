@@ -1,8 +1,8 @@
 // values.js
 
 // Основные данные 
-var fio               = "Ника Генсуковна";
-var fio_en            = "Nika Gensukovna";
+var fio               = "Таратайко Вероніка Олегівна";
+var fio_en            = "Taratayko Veronika";
 var birth             = "23.10.2008"; //дата рождения
 var date_give         = "02.09.2025"; //Дата видачи
 var date_out          = "02.09.2035"; // действителен до
